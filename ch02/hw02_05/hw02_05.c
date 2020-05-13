@@ -26,3 +26,11 @@ void br(void){
 void ic(void){
     printf("India, China");
 }
+
+
+/*
+Brazil, Russia, India, China
+India, China,
+Brazil, Russia
+Press any key to continue . . .
+*/

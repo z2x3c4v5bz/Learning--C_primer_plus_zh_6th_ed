@@ -10,3 +10,11 @@ int main(void){
     system("pause");
     return 0;
 }
+
+
+/*
+toes = 10
+2toes = 20
+toes^2 = 100
+Press any key to continue . . .
+*/

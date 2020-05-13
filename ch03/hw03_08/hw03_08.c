@@ -17,3 +17,10 @@ int main(void){
     system("pause");
     return 0;
 }
+
+
+/*
+輸入杯數: 1
+1.000000 cup = 0.500000 pint = 8.000000 ounce = 16.000000 tablespoon = 48.000000 teaspoon
+Press any key to continue . . .
+*/

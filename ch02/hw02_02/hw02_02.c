@@ -9,3 +9,10 @@ int main(void){
     system("pause");
     return 0;
 }
+
+
+/*
+Name: Zachary Lin
+Address: Tainan City, Taiwan
+Press any key to continue . . .
+*/

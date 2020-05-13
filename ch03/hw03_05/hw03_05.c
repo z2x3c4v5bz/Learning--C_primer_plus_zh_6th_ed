@@ -14,3 +14,10 @@ int main(void){
     system("pause");
     return 0;
 }
+
+
+/*
+How old are you? 65
+65 year(s) = 2051400000.000000 seconds
+Press any key to continue . . .
+*/

@@ -9,3 +9,10 @@ int main(void){
     system("pause");
     return 0;
 }
+
+
+/*
+Startled by the sudden sound, Sally shouted,
+"By the Great Pumpkin, what was that!"
+Press any key to continue . . .
+*/

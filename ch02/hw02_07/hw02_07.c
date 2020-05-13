@@ -24,3 +24,11 @@ int main(void){
 void smile(void){
     printf("Smile!");
 }
+
+
+/*
+Smile!Smile!Smile!
+Smile!Smile!
+Smile!
+Press any key to continue . . .
+*/
