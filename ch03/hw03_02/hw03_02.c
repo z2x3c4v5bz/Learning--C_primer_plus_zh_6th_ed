@@ -16,6 +16,7 @@ int main(void){
 
 
 /*
+
 輸入一個數字: 117
 ASCII 117 是 u
 Press any key to continue . . .
@@ -23,4 +24,5 @@ Press any key to continue . . .
 輸入一個數字: 97
 ASCII 97 是 a
 Press any key to continue . . .
+
 */

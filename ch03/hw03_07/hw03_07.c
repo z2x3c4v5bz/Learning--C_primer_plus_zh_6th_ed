@@ -17,7 +17,9 @@ int main(void){
 
 
 /*
+
 以英吋為單位輸入身高: 1
 1.000000 inch = 2.540000 cm
 Press any key to continue . . .
+
 */

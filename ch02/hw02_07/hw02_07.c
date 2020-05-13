@@ -27,8 +27,10 @@ void smile(void){
 
 
 /*
+
 Smile!Smile!Smile!
 Smile!Smile!
 Smile!
 Press any key to continue . . .
+
 */

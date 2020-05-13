@@ -12,7 +12,9 @@ int main(void){
 
 
 /*
+
 Startled by the sudden sound, Sally shouted,
 "By the Great Pumpkin, what was that!"
 Press any key to continue . . .
+
 */

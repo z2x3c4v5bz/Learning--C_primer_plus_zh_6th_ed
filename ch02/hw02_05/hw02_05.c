@@ -29,8 +29,10 @@ void ic(void){
 
 
 /*
+
 Brazil, Russia, India, China
 India, China,
 Brazil, Russia
 Press any key to continue . . .
+
 */
