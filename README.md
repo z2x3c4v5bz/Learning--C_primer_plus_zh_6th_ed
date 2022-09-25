@@ -1,38 +1,39 @@
-這是關於書籍「C Primer Plus」中程式設計練習題我所給出的答案。
+# C Primer Plus 中文版 第六版（習題個人解答） #
 
-### 目錄列表 ###
----
+[![issue](https://img.shields.io/github/discussions/z2x3c4v5bz/Learning--C_primer_plus_zh_6th_ed)](https://github.com/z2x3c4v5bz/Learning--C_primer_plus_zh_6th_ed/discussions)
+[![forks](https://img.shields.io/github/forks/z2x3c4v5bz/Learning--C_primer_plus_zh_6th_ed)](https://github.com/z2x3c4v5bz/Learning--C_primer_plus_zh_6th_ed/network)
+[![stars](https://img.shields.io/github/stars/z2x3c4v5bz/Learning--C_primer_plus_zh_6th_ed)](https://github.com/z2x3c4v5bz/Learning--C_primer_plus_zh_6th_ed/stargazers)
+[![release](https://img.shields.io/github/release/z2x3c4v5bz/Learning--C_primer_plus_zh_6th_ed/all)](https://github.com/z2x3c4v5bz/Learning--C_primer_plus_zh_6th_ed/releases)
+[![license](https://img.shields.io/github/license/z2x3c4v5bz/Learning--C_primer_plus_zh_6th_ed)](https://github.com/z2x3c4v5bz/Learning--C_primer_plus_zh_6th_ed/blob/master/LICENSE)
 
-Chapter  1 -- 準備開始
+## Abstract ##
 
-[Chapter  2 -- C 語言簡介](/ch02/)
+**Title:** C Primer Plus 中文版 第六版
 
-[Chapter  3 -- 資料和 C](/ch03/)
+**Auther:** Stephen Prata
 
-[Chapter  4 -- 字串及格式化輸入/輸出](/ch04/)
+**Translator:** 蔡明志
 
-[Chapter  5 -- 運算子、運算式與敘述](/ch05/)
+**Introduction:**
 
-[Chapter  6 -- C 的控制敘述：迴圈](/ch06/)
+>- 內容淺顯易懂，教學自用兩相宜
+>- 配合範例學習，可收事半功倍之效果
+>- 符合 ANSI C 語法及最新 C11 標準，於移植性（Protable）上完全沒問題
+>- 提供豐富多元的問答題，測驗讀者對各章節的了解程度
+>- 附有程式設計練習題，增進撰寫程式的功力
 
-[Chapter  7 -- C 的控制敘述：分支和跳躍](/ch07/)
+![thumbnail](img/thumbnail.png)
 
-[Chapter  8 -- 字元輸入/輸出和輸入確認](/ch08/)
+※ 習題練習的作業系統主要使用 Apple macOS Monterey，並選擇軟體 VS Code 為文字編輯器。
 
-[Chapter  9 -- 函數](/ch09/)
+※ 原諒我題目內不附圖示。
 
-[Chapter 10 -- 陣列與指標](/ch10/)
+※ 請留意，文中數學公式在瀏覽器頁面中可能無法正確顯示。
 
-[Chapter 11 -- 字串與字串函數](/ch11/)
+※ 圖書封面、章節內容、圖書資訊、習題皆為版權作者、出版商所有，本站所刊內容僅供教育、學習使用。
 
-[Chapter 12 -- 儲存類別、連結和記憶體管理](/ch12/)
+## Table of Contents ##
 
-[Chapter 13 -- 檔案的輸入與輸出](/ch13/)
-
-[Chapter 14 -- 結構與其他資料形式](/ch14/)
-
-[Chapter 15 -- 位元運算](/ch15/)
-
-[Chapter 16 -- C 的前置處理器和函式庫](/ch16/)
-
-[Chapter 17 -- 進階資料表示方式](/ch17/)
+- [C Primer Plus 中文版 第六版（習題個人解答）](#c-primer-plus-中文版-第六版習題個人解答)
+  - [Abstract](#abstract)
+  - [Table of Contents](#table-of-contents)
