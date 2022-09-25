@@ -55,3 +55,8 @@ dkms.conf
 *.layout
 *.dev
 *.win
+
+# Other
+.vscode/
+.DS_Store/
+.DS_Store
