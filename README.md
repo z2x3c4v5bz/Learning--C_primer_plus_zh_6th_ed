@@ -37,6 +37,7 @@
 - [C Primer Plus 中文版 第六版（習題個人解答）](#c-primer-plus-中文版-第六版習題個人解答)
   - [Abstract](#abstract)
   - [Table of Contents](#table-of-contents)
+  - [Chapter 01 -- 準備開始](#chapter-01----準備開始)
 
 ## Chapter 01 -- 準備開始 ##
 
@@ -44,6 +45,8 @@
 >- 撰寫程式需要的步驟
 >- 有關編譯器和連結器
 >- C 語言標準
+
+[![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
 ## Chapter 02 -- C 語言簡介 ##
 
@@ -55,6 +58,8 @@
 >- 在程式中撰寫註解敘述、建立包含一個以上函數的程式，與尋找程式錯誤所在
 >- 何謂關鍵字
 
+[![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
+
 ## Chapter 03 -- 資料和 C ##
 
 >- 關鍵字：`int`、`short`、`long`、`unsigned`、`char`、`float`、`double`、`Bool`、`Complex`、`Imaginary`
@@ -64,6 +69,8 @@
 >- 整數型態與浮點數型態之差異
 >- 撰寫常數和宣告變數型態
 >- 如何使用 `printf()` 和 `scanf()` 以輸出和讀取不同型態的值
+
+[![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
 ## Chapter 04 -- 字典及格式化輸入／輸出 ##
 
@@ -75,6 +82,8 @@
 >- 如何使用 `strlen()` 函數計算字串的長度
 >- C 的前置處理指令 `#define` 與 ANSI C 的 `const` 修飾字元用來建立符號常數
 
+[![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
+
 ## Chapter 05 -- 運算子、運算式及敘述 ##
 
 >- 關鍵字：`while`、`typedef`
@@ -84,6 +93,8 @@
 >- 便利的 `while` 迴圈
 >- 複合運算敘述、自動型態轉換，以及轉型
 >- 如何撰寫帶有參數的函數
+
+[![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
 ## Chapter 06 -- C 的控制敘述：迴圈 ##
 
@@ -95,6 +106,8 @@
 >- 其他運算子
 >- 經常使用於迴圈的陣列
 >- 撰寫有回傳值的函數
+
+[![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
 ## Chapter 07 -- C 的控制敘述：分支和跳躍 ##
 
@@ -108,12 +121,16 @@
 >- 使用 C 的字元 I/O 函數：`getchar()` 與 `putchar()`
 >- `ctype.h` 標頭檔提供字元分析函數
 
+[![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
+
 ## Chapter 08 -- 字元輸入／輸出和輸入確認 ##
 
 >- 更多輸入與輸出相關的，以及緩衝區與無緩衝區的輸入
 >- 如何從鍵盤模擬檔案結束的狀況
 >- 如何使用重導將檔案和程式連接起來
 >- 讓使用者介面更友善
+
+[![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
 ## Chapter 09 -- 函數 ##
 
@@ -126,6 +143,8 @@
 >- ANSI C 原型宣告
 >- 遞迴
 
+[![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
+
 ## Chapter 10 -- 陣列與指標 ##
 
 >- 關鍵字：`static`
@@ -135,12 +154,16 @@
 >- 撰寫處理陣列的函數
 >- 二維陣列
 
+[![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
+
 ## Chapter 11 -- 字串與字串函數 ##
 
 >- 函數：`gets()`、`gets_s()`、`fgets()`、`puts()`、`fputs()`、`strcat()`、`strncat()`、`strcmp()`、`strncmp()`、`strcpy()`、`strncpy()`、`sprintf()`、`strchr()`
 >- 建立與使用字串
 >- 從 C 函數庫使用一些有關字串和字元函數，而且也可以建立自己撰寫的函數
 >- 使用命令列引數
+
+[![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
 ## Chapter 12 -- 儲存類別、連結和記憶體管理 ##
 
@@ -149,12 +172,16 @@
 >- C 如何允許您決定變數的有效範圍，以及變數的生命週期
 >- 設計更複雜的程式
 
+[![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
+
 ## Chapter 13 -- 檔案的輸入與輸出 ##
 
 >- 函數：`fopen()`、`getc()`、`putc()`、`exit()`、`fclose()`、`fprintf()`、`fscanf()`、`fgets()`、`fputs()`、`rewind()`、`fseek()`、`ftell()`、`fflush()`、`fgetpos()`、`fsetpos()`、`feof()`、`ferror()`、`ungetc()`、`setvbuf()`、`fread()`、`fwrite()`
 >- 如何使用 C 的標準 I/O 的家族函式來處理檔案
 >- 文字模式與二進位模式、文字與二進位格式，以及有緩衝區與沒有緩衝區的 I/O
 >- 使用可以循序與隨機存取檔案的函式
+
+[![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
 ## Chapter 14 -- 結構與其他資料形式 ##
 
@@ -165,11 +192,15 @@
 >- C 的 `typedef` 功能
 >- 聯合與指向函數的指標
 
+[![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
+
 ## Chapter 15 -- 位元運算 ##
 
 >- 運算子：`~ & | ^`、`>> <<`、`&= |= ^= >>= <<=`
 >- 二進位、八進位，以及十六進位數字標記（複習）
 >- 兩個 C 語言機制用以處理個別的位元：位元運算子與位元欄位
+
+[![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
 ## Chapter 16 -- C 的前置處理器和函式庫 ##
 
@@ -181,9 +212,13 @@
 >- 內聯函數
 >- C 函式庫與一些特定函數
 
+[![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
+
 ## Chapter 17 -- 進階資料表示方式 ##
 
 >- 函數：`malloc()`
 >- 使用 C 表示不同的資料型態
 >- 新的演算法與增加發展程式的能力
 >- 抽象的資料型態
+
+[![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
