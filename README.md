@@ -14,6 +14,8 @@
 
 **Translator:** 蔡明志
 
+**Publisher:** 碁峯資訊股份有限公司
+
 **Introduction:**
 
 >- 內容淺顯易懂，教學自用兩相宜
